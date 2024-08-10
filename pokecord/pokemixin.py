@@ -1,8 +1,8 @@
 from redbot.core import commands
 
 
-@commands.group(name="poke")
-async def poke(self, ctx: commands.Context):
+@commands.group(name="pcord")
+async def pcord(self, ctx: commands.Context):
     """
     Pokecord commands
     """
